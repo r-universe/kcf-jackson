@@ -2,5 +2,8 @@
   {
     "package": "sketch",
     "oncran": true
+  },
+  {
+    "package": "animate"
   }
 ]
