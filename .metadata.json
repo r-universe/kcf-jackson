@@ -4,6 +4,7 @@
     "oncran": true
   },
   {
-    "package": "animate"
+    "package": "animate",
+    "oncran": false
   }
 ]
