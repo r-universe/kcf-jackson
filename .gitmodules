@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/kcf-jackson/universe
-	shallow = true
 	branch = HEAD
-[submodule "sketch"]
-	path = sketch
-	url = https://github.com/kcf-jackson/sketch
-	shallow = true
-	registered = true
 [submodule "animate"]
 	path = animate
 	url = https://github.com/kcf-jackson/animate
-	shallow = true
-	registered = true
+[submodule "sketch"]
+	path = sketch
+	url = https://github.com/kcf-jackson/sketch
