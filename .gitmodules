@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/kcf-jackson/universe
+	url = https://github.com/kcf-jackson/kcf-jackson.r-universe.dev
 	branch = HEAD
 [submodule "animate"]
 	path = animate
